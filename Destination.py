@@ -4,4 +4,4 @@ for city in destinations:
     if city == "London":
         print(f"Now boarding for: {city}")
 
-print("This became Sandor's code")
+print("This has become Sandor's code")
